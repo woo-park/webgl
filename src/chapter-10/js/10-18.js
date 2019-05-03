@@ -19,12 +19,12 @@ function init() {
   };
 
   var urls = [
-      '../../assets/textures/cubemap/colloseum/right.png',
-      '../../assets/textures/cubemap/colloseum/left.png',
-      '../../assets/textures/cubemap/colloseum/top.png',
-      '../../assets/textures/cubemap/colloseum/bottom.png',
-      '../../assets/textures/cubemap/colloseum/front.png',
-      '../../assets/textures/cubemap/colloseum/back.png'
+      '../../assets/textures/cubemap/beach/right.png',
+      '../../assets/textures/cubemap/beach/left.png',
+      '../../assets/textures/cubemap/beach/top.png',
+      '../../assets/textures/cubemap/beach/bottom.png',
+      '../../assets/textures/cubemap/beach/front.png',
+      '../../assets/textures/cubemap/beach/back.png'
   ];
 
   var cubeLoader = new THREE.CubeTextureLoader();
